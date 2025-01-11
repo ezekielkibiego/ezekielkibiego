@@ -65,4 +65,4 @@ I have a proven track record of architecting robust and scalable applications th
 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezekielkibiego&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezekielkibiego&show_icons=true&theme=dark)](https://github.com/ezekielkibiego)
