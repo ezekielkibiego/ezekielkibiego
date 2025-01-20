@@ -17,7 +17,7 @@ I have a proven track record of architecting robust and scalable applications th
 | Technology         | Proficiency Level | Years of Experience |
 |--------------------|-------------------|---------------------|
 | Java               | Expert            | 5+ years            |
-| Python             | Advanced          | 3+ years            |
+| Python             | Advanced          | 4+ years            |
 | JavaScript         | Advanced          | 4+ years            |
 | Spring Framework   | Expert            | 4+ years            |
 | Django             | Advanced          | 3+ years            |
